@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋 I'm Noor
 
-<!--
-**NooryA/NooryA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | Full-Stack Developer 
 
-Here are some ideas to get you started:
+### 🔥 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗 **Full-Stack Development** 
+- 🔧 **Cloud & DevOps**
+
+### 📌 Live Featured Projects
+
+🌟 **[TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778)** – A network for tradespeople & homeowners. 
+
+🌟 **[FeelShare](https://www.feelshare.ca/)** – Social Feelings sharing app
+
+🌟 **[RecipAI](https://recip-ai-indol.vercel.app/)** – AI-powered Recipe Creator.
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-ahamed-sadique/)
