@@ -1,17 +1,17 @@
 # 👋 Hi there! I'm Noor
 
-### 🚀 Software Engineer | Full-Stack Developer  
+###  Software Engineer | Full-Stack Developer  
 
 ---
 
-### 🔥 What I Do
+###  What I Do
 
 - 🏗 **Full-Stack Development**  
 - 🔧 **Cloud & DevOps**
 
 ---
 
-## 🔧 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### **Frontend**
 <p>
@@ -71,7 +71,7 @@
 
 ---
 
-## 📌 Live Featured Projects
+##  Live Featured Projects
 
 🌟 **[TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778)** – A network for tradespeople & homeowners.
 
