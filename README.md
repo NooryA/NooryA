@@ -73,11 +73,15 @@
 
 ##  Live Featured Projects
 
-🌟 **[TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778)** – A network for tradespeople & homeowners.
+🌟 [MatrixGPT](https://matrix-gpt-gray.vercel.app/) – Red pill or blue pill? Choose your fate 🔵🟥
 
-🌟 **[RecipAI](https://recip-ai-indol.vercel.app/)** – AI-powered Recipe Creator
+🌟 [TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778) – A network for tradespeople & homeowners  
 
-🌟 **[FeelShare](https://www.feelshare.ca/)** – Social Feelings sharing app
+🌟 [Portfolio](https://www.noorahamed.com/) – If you would like to check it out 😊  
+
+🌟 [RecipAI](https://recip-ai-indol.vercel.app/) – AI-powered Recipe Creator  
+
+🌟 [FeelShare](https://www.feelshare.ca/) – Social Feelings sharing app  
 
 
 ---
