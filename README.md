@@ -75,6 +75,8 @@
 
 🌟 [MatrixGPT](https://matrix-gpt-gray.vercel.app/) – Red pill or blue pill? Choose your fate 🔵🟥
 
+🌟 [Live Tailwind Previewer](https://marketplace.visualstudio.com/items?itemName=Noor.live-tailwind-previewer) – Helping people understand Tailwind classes 😃
+
 🌟 [TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778) – A network for tradespeople & homeowners  
 
 🌟 [Portfolio](https://www.noorahamed.com/) – If you would like to check it out 😊  
