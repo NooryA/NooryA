@@ -73,6 +73,8 @@
 
 ##  Live Featured Projects
 
+🌟 [VibeStudio](https://marketplace.visualstudio.com/items?itemName=Noor.vibestudio) – Turn your workspace into a vibe 😎
+
 🌟 [MatrixGPT](https://matrix-gpt-gray.vercel.app/) – Red pill or blue pill? Choose your fate 🔵🟥
 
 🌟 [Live Tailwind Previewer](https://marketplace.visualstudio.com/items?itemName=Noor.live-tailwind-previewer) – Helping people understand Tailwind classes 😃
