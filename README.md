@@ -79,6 +79,8 @@
 
 🌟 [Live Tailwind Previewer](https://marketplace.visualstudio.com/items?itemName=Noor.live-tailwind-previewer) – Helping people understand Tailwind classes 😃
 
+🌟 [ScreenSense](https://chromewebstore.google.com/detail/screensense/hgmlliepbmahlljmkefgcfpfleklcheh?hl=en) – Capture and analyze screenshots with AI-powered explanations (Chrome Extension)
+
 🌟 [TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778) – A network for tradespeople & homeowners  
 
 🌟 [Portfolio](https://www.noorahamed.com/) – If you would like to check it out 😊  
