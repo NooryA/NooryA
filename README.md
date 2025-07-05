@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Noor
+# 👋 Hi there! I'm Noor 
 
 ###  Software Engineer | Full-Stack Developer  
 
@@ -95,3 +95,5 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-ahamed-sadique/)
+
+![](https://komarev.com/ghpvc/?username=NooryA&style=for-the-badge)
