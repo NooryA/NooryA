@@ -83,7 +83,7 @@
 
 🌟 [TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778) – A network for tradespeople & homeowners  
 
-🌟 [FolioVerse]([https://www.noorahamed.com/](https://github.com/NooryA/FolioVerse)) – Collection of Next.js Portfolio Themes 😊  
+🌟 [FolioVerse](https://github.com/NooryA/FolioVerse) – Collection of Next.js Portfolio Themes 😊  
 
 🌟 [RecipAI](https://recip-ai-indol.vercel.app/) – AI-powered Recipe Creator  
 
