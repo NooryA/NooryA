@@ -73,23 +73,23 @@
 
 ##  Live Featured Projects
 
-🌟 [kill-port](https://www.npmjs.com/package/@noor.ahamed/kill-port) – Fixing “Port 3000 already in use” by one command
+🔫 [kill-port](https://www.npmjs.com/package/@noor.ahamed/kill-port) – Fixing “Port 3000 already in use” by one command
 
-🌟 [VibeStudio](https://marketplace.visualstudio.com/items?itemName=Noor.vibestudio) – Turn your workspace into a vibe 😎
+🎨 [VibeStudio](https://marketplace.visualstudio.com/items?itemName=Noor.vibestudio) – Turn your workspace into a vibe 😎
 
-🌟 [MatrixGPT](https://matrix-gpt-gray.vercel.app/) – Red pill or blue pill? Choose your fate 🔵🟥
+📟 [MatrixGPT](https://matrix-gpt-gray.vercel.app/) – Red pill or blue pill? Choose your fate 🔵🟥
 
-🌟 [Live Tailwind Previewer](https://marketplace.visualstudio.com/items?itemName=Noor.live-tailwind-previewer) – Helping people understand Tailwind classes 😃
+🌬 [Live Tailwind Previewer](https://marketplace.visualstudio.com/items?itemName=Noor.live-tailwind-previewer) – Helping people understand Tailwind classes 😃
 
-🌟 [ScreenSense](https://chromewebstore.google.com/detail/screensense/hgmlliepbmahlljmkefgcfpfleklcheh?hl=en) – Capture and analyze screenshots with AI-powered explanations (Chrome Extension)
+🧠 [ScreenSense](https://chromewebstore.google.com/detail/screensense/hgmlliepbmahlljmkefgcfpfleklcheh?hl=en) – Capture and analyze screenshots with AI-powered explanations (Chrome Extension)
 
-🌟 [TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778) – A network for tradespeople & homeowners  
+🛠 [TradesPool](https://apps.apple.com/ca/app/tradespool/id6538714778) – A network for tradespeople & homeowners  
 
-🌟 [FolioVerse](https://github.com/NooryA/FolioVerse) – Collection of Next.js Portfolio Themes 😊  
+🎭 [FolioVerse](https://github.com/NooryA/FolioVerse) – Collection of Next.js Portfolio Themes 😊  
 
-🌟 [RecipAI](https://recip-ai-indol.vercel.app/) – AI-powered Recipe Creator  
+🍔 [RecipAI](https://recip-ai-indol.vercel.app/) – AI-powered Recipe Creator  
 
-🌟 [FeelShare](https://www.feelshare.ca/) – Social Feelings sharing app  
+💬 [FeelShare](https://www.feelshare.ca/) – Social Feelings sharing app  
 
 
 ---
