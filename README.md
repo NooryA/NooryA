@@ -73,6 +73,8 @@
 
 ##  Live Featured Projects
 
+🌟 [kill-port](https://www.npmjs.com/package/@noor.ahamed/kill-port) – Fixing “Port 3000 already in use” by one command
+
 🌟 [VibeStudio](https://marketplace.visualstudio.com/items?itemName=Noor.vibestudio) – Turn your workspace into a vibe 😎
 
 🌟 [MatrixGPT](https://matrix-gpt-gray.vercel.app/) – Red pill or blue pill? Choose your fate 🔵🟥
