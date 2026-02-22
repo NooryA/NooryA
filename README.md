@@ -73,6 +73,8 @@
 
 ##  Live Featured Projects
 
+⚡ [pr-check](https://www.npmjs.com/package/@noor.ahamed/pr-check) – A CLI that shows your GitHub pull request responsibilities in one command
+
 🔫 [kill-port](https://www.npmjs.com/package/@noor.ahamed/kill-port) – Fixing “Port 3000 already in use” by one command
 
 🎨 [VibeStudio](https://marketplace.visualstudio.com/items?itemName=Noor.vibestudio) – Turn your workspace into a vibe 😎
