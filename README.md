@@ -73,6 +73,8 @@
 
 ##  Live Featured Projects
 
+💖 [FavFile](https://marketplace.visualstudio.com/items?itemName=Noor.favfile) – A VS Code extension to favorite files and open them quickly from the Explorer sidebar.
+
 ⚡ [pr-check](https://www.npmjs.com/package/@noor.ahamed/pr-check) – A CLI that shows your GitHub pull request responsibilities in one command
 
 🔫 [kill-port](https://www.npmjs.com/package/@noor.ahamed/kill-port) – Fixing “Port 3000 already in use” by one command
