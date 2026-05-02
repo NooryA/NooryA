@@ -73,6 +73,8 @@
 
 ##  Live Featured Projects
 
+⛪ [HolyRope](https://apps.apple.com/ca/app/holyrope/id6753093021) – Prayer times, nearby jammats, Islamic events, and community help listings for everyday Muslim life
+
 💖 [FavFile](https://marketplace.visualstudio.com/items?itemName=Noor.favfile) – A VS Code extension to favorite files and open them quickly from the Explorer sidebar.
 
 ⚡ [pr-check](https://www.npmjs.com/package/@noor.ahamed/pr-check) – A CLI that shows your GitHub pull request responsibilities in one command
